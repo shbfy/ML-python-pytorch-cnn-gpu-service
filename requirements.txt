@@ -1,5 +1,5 @@
 future==0.17.1
-protobuf==3.7.1
+protobuf==3.15.0
 falcon==1.4.1
 gunicorn==19.9.0
 numpy==1.16.2
